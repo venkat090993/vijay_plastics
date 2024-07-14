@@ -1,0 +1,18 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    background-color: lightseagreen;
+    padding:10px;
+    justify-content: space-between;
+
+}
+
+.buttonDiv{
+align-content: flex-end;
+}
+
+.buttonDiv Button{
+    margin-left: 5px;
+}
+
